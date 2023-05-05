@@ -1,8 +1,8 @@
 ## Maxthon-Browser-Cookie-Erfassung
 
-masterky:C:\Users\Administrator\AppData\Local\Maxthon\Application\User Data\Local State
+masterkey: ```C:\Users\Administrator\AppData\Local\Maxthon\Application\User Data\Local State```
 
-Der Pfad der Cookie-Datei ist C:\Users\Administrator\AppData\Local\Maxthon\Application\User Data\Maxthon Guest Profile\Cookies
+Der Pfad der Cookie-Datei ist: ```C:\Users\Administrator\AppData\Local\Maxthon\Application\User Data\Maxthon Guest Profile\Cookies```
 
 ----
 
